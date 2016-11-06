@@ -1,5 +1,5 @@
 # Sphero controller sample project
-
+![alt tag](https://images-na.ssl-images-amazon.com/images/G/01/vince/boost/detailpages/sphero1._SR600,180_.jpg)
 This repository contains a sample android project, using Sphero SDK.
 This project enables to control a Sphero, with basic commands.
 
@@ -14,6 +14,8 @@ Android SDK must be installed and configured.
 * Open the project with Android Studio.
 * Turn your Sphero device on.
 * Run the app.
+
+![alt tag](https://github.com/tcacciatore/SpheroBasicController/blob/master/screens/screen_1.png)
 
 ## Authors
 
